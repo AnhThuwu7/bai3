@@ -1,0 +1,30 @@
+#tieude{
+    font-size: 40px;
+    color:#0073C6;
+    font-family: Georgia;
+}
+.xanhduong{
+    color: #578FCA;
+   
+}
+.xanhduong.so2{
+    font-size: 26px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:normal
+ 
+}
+.so1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#doanvan{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#doanvan2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 45px;
+}
+#nghieng{
+    font-style: italic;
+    float:right;
+}
